@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b0999bc.css",
+    "main.js": "/static/js/main.08e07a9c.js",
+    "static/media/login-bg.png": "/static/media/login-bg.b4f8568a4476fabe29ef.png",
+    "static/media/403.png": "/static/media/403.2cbe6806e527e457863a.png",
+    "static/media/3819287.jpg": "/static/media/3819287.6fdf69e3f1f84b7e1e6f.jpg",
+    "static/media/404.png": "/static/media/404.f4455ba7c3898c549038.png",
+    "static/media/logo.svg": "/static/media/logo.eab2144d1ed403793649b8232331cdef.svg",
+    "static/media/mini-logo.svg": "/static/media/mini-logo.0e8ef37107de34a789983140d3140dac.svg",
+    "static/media/logo-text.svg": "/static/media/logo-text.afeb88dcc70516fa6d10a92fd93bc898.svg",
+    "static/media/logs.svg": "/static/media/logs.b1f755f65bfcc2be9cd2969104c643eb.svg",
+    "static/media/shield.svg": "/static/media/shield.c7596bc08d3fe3df26975379585a3fe2.svg",
+    "static/media/keylogger.svg": "/static/media/keylogger.f226e6553ce2f8760a0444a51bab5528.svg",
+    "static/media/telegram.svg": "/static/media/telegram.256c8ac240eaa3bbce23722f470055b6.svg",
+    "static/media/usb-driver.svg": "/static/media/usb-driver.91ed1b2d073c810d1514bc8ee40d7324.svg",
+    "static/media/session.svg": "/static/media/session.25a9d72e14dbfa7e8471a8bb7db2176e.svg",
+    "static/media/usb.svg": "/static/media/usb.3187ffe2c12775b7f0732ee6a65955cc.svg",
+    "static/media/audio.svg": "/static/media/audio.76c3c1b361e5632d66866fd4c3dca973.svg",
+    "static/media/decrease-line.svg": "/static/media/decrease-line.3d8113185b3e4c601455712d060b51d7.svg",
+    "static/media/wifi.svg": "/static/media/wifi.3e6807665aeb5c406512994c2585963b.svg",
+    "index.html": "/index.html",
+    "static/media/printer.svg": "/static/media/printer.279e49ddcecbef21e7d39497c974574e.svg",
+    "static/media/polygon.svg": "/static/media/polygon.a7f6f2b9a8bbcba163e84d76d16a8754.svg",
+    "static/media/screenshot.svg": "/static/media/screenshot.fb7b19c9337e0a9a26490bc8bca00ac2.svg",
+    "static/media/remote.svg": "/static/media/remote.bb17c205a7f00ab321faa5f9d61abb2c.svg",
+    "static/media/buffer.svg": "/static/media/buffer.81e91bb005f40edadb30235177c0c803.svg",
+    "static/media/decrease-cursor.svg": "/static/media/decrease-cursor.15190e498fc521e272820244a3c23b0b.svg",
+    "main.2b0999bc.css.map": "/static/css/main.2b0999bc.css.map",
+    "main.08e07a9c.js.map": "/static/js/main.08e07a9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b0999bc.css",
+    "static/js/main.08e07a9c.js"
+  ]
+}
