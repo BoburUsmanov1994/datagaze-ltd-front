@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2b0999bc.css",
-    "main.js": "/static/js/main.7b0276b2.js",
+    "main.js": "/static/js/main.3eb46302.js",
     "static/media/login-bg.png": "/static/media/login-bg.b4f8568a4476fabe29ef.png",
     "static/media/403.png": "/static/media/403.2cbe6806e527e457863a.png",
     "static/media/3819287.jpg": "/static/media/3819287.6fdf69e3f1f84b7e1e6f.jpg",
@@ -9,26 +9,28 @@
     "static/media/logo.svg": "/static/media/logo.a0702e3c9d1ea46cb152453bb099c2e4.svg",
     "static/media/mini-logo.svg": "/static/media/mini-logo.0e8ef37107de34a789983140d3140dac.svg",
     "static/media/logo-text.svg": "/static/media/logo-text.579b55235f3af49bc25dbae349869681.svg",
-    "static/media/logs.svg": "/static/media/logs.18d4108200422dbac7b21934a36a873f.svg",
+    "static/media/logs.svg": "/static/media/logs.47a332eb8e4df991dd3dc51ba7f88fdd.svg",
     "static/media/shield.svg": "/static/media/shield.d4b5ba00936eb6058665195e90e3fbb1.svg",
-    "static/media/telegram.svg": "/static/media/telegram.ffe34c2d4eafc006412f7fe87da554e1.svg",
-    "static/media/keylogger.svg": "/static/media/keylogger.2d0010d90d5b2108f5890783b2b220bb.svg",
-    "static/media/usb-driver.svg": "/static/media/usb-driver.eb302f4b06fe9c0a4e97e8df9847fe86.svg",
-    "static/media/session.svg": "/static/media/session.8cb98ab7f4272793d6cda91ce18e95ba.svg",
-    "static/media/usb.svg": "/static/media/usb.9b0c05dbe3481b5e80fdf2f30227427f.svg",
-    "static/media/audio.svg": "/static/media/audio.d5202c5468ba2501fba02d98c1888bdd.svg",
-    "static/media/wifi.svg": "/static/media/wifi.b3ba2550d719ae33ff42ddb2760e8954.svg",
+    "static/media/keylogger.svg": "/static/media/keylogger.b45a30c43cdbb3883ccb91e8655ff2c4.svg",
+    "static/media/usb-driver.svg": "/static/media/usb-driver.65cbf6d3045dfa5bcf33a064f5de71a1.svg",
+    "static/media/session.svg": "/static/media/session.383fded61f708e8a241954bf854eb6de.svg",
+    "static/media/printer.svg": "/static/media/printer.672acadd25b9048b0add5156254825c6.svg",
+    "static/media/polygon.svg": "/static/media/polygon.9cb54c04eccc5139ced12f7e493aee24.svg",
+    "static/media/wifi.svg": "/static/media/wifi.2e44cf21e9a71ee854f962263856425f.svg",
+    "static/media/audio.svg": "/static/media/audio.72dfef1551f19a9258a55a314fcea15e.svg",
+    "static/media/usb.svg": "/static/media/usb.3d1a884c7b0cde80c962e7a476d85c49.svg",
     "index.html": "/index.html",
-    "static/media/printer.svg": "/static/media/printer.8f947bea3dd3dd3349e40485a74fbbbe.svg",
-    "static/media/polygon.svg": "/static/media/polygon.5d2b8d9bfc54b1637076c701bbd1170d.svg",
-    "static/media/screenshot.svg": "/static/media/screenshot.631c02cdc5597dffcad5e2b4d810ef45.svg",
-    "static/media/remote.svg": "/static/media/remote.59f2dc29d53bf3eb4a15966576752156.svg",
-    "static/media/buffer.svg": "/static/media/buffer.a412e73e9542cacfa64839c50b75ecf4.svg",
+    "static/media/telegram.svg": "/static/media/telegram.37c13fd95df73e98088bb3458c5b1027.svg",
+    "static/media/screenshot.svg": "/static/media/screenshot.2bb50476d4858b6e52cad9a6fc3a89c6.svg",
+    "static/media/ru.svg": "/static/media/ru.69217da4af8ab520d7621279d6e40f5a.svg",
+    "static/media/remote.svg": "/static/media/remote.68af741d9f03bf41d336f57f0a3d59d4.svg",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "static/media/buffer.svg": "/static/media/buffer.d83f600777ca80d3da3d4eab8f8b7e3b.svg",
     "main.2b0999bc.css.map": "/static/css/main.2b0999bc.css.map",
-    "main.7b0276b2.js.map": "/static/js/main.7b0276b2.js.map"
+    "main.3eb46302.js.map": "/static/js/main.3eb46302.js.map"
   },
   "entrypoints": [
     "static/css/main.2b0999bc.css",
-    "static/js/main.7b0276b2.js"
+    "static/js/main.3eb46302.js"
   ]
 }
